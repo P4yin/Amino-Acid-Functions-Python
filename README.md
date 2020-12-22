@@ -1,5 +1,5 @@
 # AminoFunctions
-Python module/library to aid with mrna stuff. Simple class to use. Depends of datetime
+Python module/library to aid with mrna stuff. Simple class to use. Depends on datetime library. Written in python 3.9
 
 Creates text files to store large amounts of information, and allows you to easily copy results and store results. To do this, it uses the datetime library so we can create unique files.
 Include 5 functions, each doing something different
