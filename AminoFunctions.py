@@ -74,7 +74,7 @@ class AminoFunctions:
         "sec":"selenocysteine",
         "pyl":"pyrrolysine"
     }
-    _sense = { # i think dictionarys are faster ?
+    _sense = { # i think dictionaries are faster ?
         "a": "T",
         "u": "A",
         "c": "G",
