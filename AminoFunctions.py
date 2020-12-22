@@ -240,4 +240,4 @@ class AminoFunctions:
         f = open(file_name, "w")
         f.write("anti-sense:" + mrna + "\n" + "sense:" + sense)
         f.close()
-        print("Create file " + file_name + " that contains the sense strand and anti sense strand. File format is D/M/Y and H:M:S")
+        print("Created file " + file_name + " that contains the sense strand and anti sense strand. File format is D/M/Y and H:M:S")
