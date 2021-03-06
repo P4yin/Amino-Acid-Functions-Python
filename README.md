@@ -5,4 +5,6 @@ Creates text files to store large amounts of information, and allows you to easi
 Include 5 functions, each doing something different
 Pretty alright comments explaining the functions. Tester is just a program I created so you can test the functionality of the library.
 
-You can check tester to see how I used the functions if you are lost
+You can check tester to see how I used the functions if you are lost  
+
+name changed a bit so that other people who know what they are doing can use the name and get found more easily
